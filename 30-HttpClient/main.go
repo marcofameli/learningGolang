@@ -32,6 +32,5 @@ func main() { // metodo 1
 		panic(err)
 	}
 	println(string(body))
-	// PAREI NA AULA 21
 
 }
